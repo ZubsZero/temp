@@ -10,7 +10,8 @@ function temperatureconverter(input) {
     document.getElementById("results").textContent=(valNum*1.8) + 32;
   }
 
-  function calculate(fahren) {
-    valNum = parseFloat(fahren);
-    document.getElementById(" fh").textContent=(valNum-32)/1.8;
+  function calculate(Fahrenheight) {
+    valNum = parseFloat(Fahrenheight);
+    document.getElementById("fh").textContent=(valNum-32)/1.8;
   }
+  
