@@ -14,7 +14,7 @@
   box-shadow: -20px -20px 60px #032c42, 20px 20px 60px #053c5a;
   width: 400px;
   margin-top: 200px;
-  height:400px;
+  height:430px;
  border: 2px solid aqua;
 }
 body {
@@ -25,9 +25,10 @@ input {
     padding: 3px;
     font-size: 19px;
     border-radius: 30px;
-    margin-top: 5px;
+    margin-top: 1px;
     background-color: black;
     color: aqua;
+    
 }
 
 
